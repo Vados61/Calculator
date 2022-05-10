@@ -1,5 +1,4 @@
-import pygame # Привет я алексей
-pygame.init()
+import pygame # Привет я алексейssdasdaddad
 
 
 W, H = 600, 720
