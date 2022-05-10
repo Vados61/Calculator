@@ -1,4 +1,4 @@
-import pygame
+import pygame # Привет я алексей
 pygame.init()
 
 
